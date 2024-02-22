@@ -4,25 +4,25 @@ This badge points to the latest released version of your repository. If you want
 
 DOI
 
-10.5281/zenodo.10672978
+10.5281/zenodo.10673020
 
 Markdown
 
-[![DOI](https://zenodo.org/badge/758773009.svg)](https://zenodo.org/doi/10.5281/zenodo.10672977)
+[![DOI](https://zenodo.org/badge/758776069.svg)](https://zenodo.org/doi/10.5281/zenodo.10673019)
 
 reStructuredText
 
-.. image:: https://zenodo.org/badge/758773009.svg
-  :target: https://zenodo.org/doi/10.5281/zenodo.10672977
+.. image:: https://zenodo.org/badge/758776069.svg
+  :target: https://zenodo.org/doi/10.5281/zenodo.10673019
 
 HTML
 
-<a href="https://zenodo.org/doi/10.5281/zenodo.10672977"><img src="https://zenodo.org/badge/758773009.svg" alt="DOI"></a>
+<a href="https://zenodo.org/doi/10.5281/zenodo.10673019"><img src="https://zenodo.org/badge/758776069.svg" alt="DOI"></a>
 
 Image URL
 
-https://zenodo.org/badge/758773009.svg
+https://zenodo.org/badge/758776069.svg
 
 Target URL
 
-https://zenodo.org/doi/10.5281/zenodo.10672977
+https://zenodo.org/doi/10.5281/zenodo.10673019
